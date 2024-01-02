@@ -19,6 +19,24 @@ int Memoisation(int n,vector<int>& dp){
 
         return dp[n];
 }
+
+int tb(int n){
+    if (n == 0) {
+            return 0;
+        }
+        if (n == 1 || n == 2) {
+            return 1;
+        }
+    vector<int> dp(n+1,0);
+    dp[0] = 0;
+    dp[1] = 1;
+    dp[2] = 1;
+
+    for(int j = 3;j<=n;j++){
+         dp[j] = dp[j-1]+ dp[j-2] + dp[j-3];
+    }
+    return dp[n];
+}
     int tribonacci(int n) {
         // if(n == 0){
         // return 0;
@@ -34,7 +52,13 @@ int Memoisation(int n,vector<int>& dp){
 
 
         // above one is the basic approch
-        vector<int> dp(n+1,-1);
-        return Memoisation(n,dp);
+
+        ////////////////////////////////////
+        // by Memoisation  method
+        // vector<int> dp(n+1,-1);
+        // return Memoisation(n,dp);
+        ////////////////////////////////////
+        // By Tabulation method
+        return tb(n);
     }
 };
