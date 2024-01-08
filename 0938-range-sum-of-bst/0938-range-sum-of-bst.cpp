@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-void solve(TreeNode* &root,int low,int high,int &data){
+void solve(TreeNode* &root,int &low,int &high,int &data){
     if(root == NULL){
         return;
     }
@@ -27,7 +27,7 @@ void solve(TreeNode* &root,int low,int high,int &data){
     solve(root->right,low,high,data);
     }
 }
-    int rangeSumBST(TreeNode* root, int low, int high) {
+    int rangeSumBST(TreeNode* &root, int &low, int &high) {
         int sum = 0;
         solve(root,low,high,sum);
         return sum;
