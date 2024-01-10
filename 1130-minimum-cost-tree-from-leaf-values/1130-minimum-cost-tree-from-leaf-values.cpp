@@ -17,6 +17,32 @@ int solve_using_rec(vector<int> & arr,map<pair<int,int>,int> &ump,int left,int r
     dp[left][right] = mini;
     return dp[left][right];
 }
+
+//By tabulation method
+int solving_using_tabulation(vector<int> & arr,map<pair<int,int>,int> &ump){
+    int n = arr.size();
+    vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+    // int n = arr.size();
+
+    for(int left = n-1;left >= 0;left--){
+        for(int right = 0;right <= n-1;right++){
+            if(left == right){
+                continue;
+            }
+            else{
+
+            
+            int mini = INT_MAX;
+        for(int i = left;i<right;i++){
+        mini = min(mini,ump[{left,i}]*ump[{i+1,right}] + dp[left][i] + dp[i+1][right]);
+           }    
+
+        dp[left][right] = mini;
+        }
+        }
+    }
+    return dp[0][n-1];
+}
     int mctFromLeafValues(vector<int>& arr) {
         map<pair<int,int>,int> ump;
         int n = arr.size();
@@ -27,6 +53,9 @@ int solve_using_rec(vector<int> & arr,map<pair<int,int>,int> &ump,int left,int r
             }
         }
         vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
-        return solve_using_rec(arr,ump,0,arr.size()-1,dp);
+        // return solve_using_rec(arr,ump,0,arr.size()-1,dp);
+
+
+        return solving_using_tabulation(arr,ump);
     }
 };
