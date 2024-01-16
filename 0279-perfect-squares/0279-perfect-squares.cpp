@@ -35,12 +35,31 @@ int solve_using_memoisation(int n,vector<int> &dp){
 
     return dp[n] = ans;
 }
+
+int solve_using_tabulation(int n){
+    vector<int> dp(n+1,0);
+    dp[0] = 0;
+
+    for(int j = 1;j<=n;j++){
+        int ans = INT_MAX;
+        for(int i = 1;i<=sqrt(j);i++){
+        int a = i*i;
+        ans = min (dp[j-a]+1,ans);
+        }
+        dp[j] = ans;
+    }
+    return dp[n];
+}
     int numSquares(int n) {
 
         // solved using recursion
         // return solve_using_recursion(n) - 1;
 
-        vector<int> dp(n+1,-1);
-        return solve_using_memoisation(n,dp)-1;
+        // solved using memoisation
+        // vector<int> dp(n+1,-1);
+        // return solve_using_memoisation(n,dp)-1;
+
+        // solve using tabultion
+        return solve_using_tabulation(n);
     }
 };
