@@ -34,7 +34,7 @@ int solve_using_memoisation(vector<int>& prices,int ind,bool buy,vector<vector<i
 }
 
 int using_tabulation(vector<int>& prices){
-    vector<vector<int>> dp(prices.size()+1,(vector<int>(2,-1)));
+    vector<vector<int>> dp(prices.size()+1,(vector<int>(2,0)));
 
     dp[prices.size()][0] = dp[prices.size()][1] = 0;
     for(int ind = prices.size()-1;ind >=0;ind--){
@@ -51,6 +51,25 @@ int using_tabulation(vector<int>& prices){
     }
     return dp[0][1];
 }
+int solve_using_space_optimisation(vector<int>& prices){
+    vector<int> ahead(2,0),cur(2,0);
+
+        ahead[0] = ahead[1] = 0;
+        for(int ind = prices.size()-1;ind >=0;ind--){
+            for(int buy = 0;buy <= 1;buy++){
+                int profit = 0;
+            if(buy == 1){
+                profit = max(-prices[ind] + ahead[0],0 + ahead[1]);
+            }
+            else{
+                profit = max(prices[ind] + ahead[1],0 + ahead[0]);
+            }
+            cur[buy] = profit;
+            }
+            ahead = cur;
+        }
+        return ahead[1];
+}
     int maxProfit(vector<int>& prices) {
         // Solve_using_recursion
         // bool buy = 1;
@@ -64,6 +83,6 @@ int using_tabulation(vector<int>& prices){
         // vector<vector<int>> dp(prices.size(),(vector<int>(2,-1)));
         // return solve_using_memoisation(prices,ind,buy,dp);
 
-        return using_tabulation(prices);
+        return solve_using_space_optimisation(prices);
     }
 };
