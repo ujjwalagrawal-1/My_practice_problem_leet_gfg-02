@@ -5,7 +5,7 @@ public:
         for(int i = 0;i<nums.size();i++){
             st.insert(nums[i]);
         }
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int ans = 0;
         int uni = st.size();
         int i = 0;int j = 0;
