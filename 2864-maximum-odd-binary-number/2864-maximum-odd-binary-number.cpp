@@ -12,8 +12,8 @@ public:
             }
         }
         one.pop_back();
-        string ans = one + zero;
-        ans += '1';
-        return ans;
+        one += zero;
+        one += '1';
+        return one;
     }
 };
