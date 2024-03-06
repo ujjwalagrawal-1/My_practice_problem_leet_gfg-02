@@ -13,8 +13,8 @@ public:
         ListNode* fast = head;
         while(fast != NULL){
             fast = fast->next;
-            if(fast!= NULL){
-                slow = slow->next;
+            if(fast != NULL){
+                slow = slow ->next;
                 fast = fast->next;
             }
             if(slow == fast){
