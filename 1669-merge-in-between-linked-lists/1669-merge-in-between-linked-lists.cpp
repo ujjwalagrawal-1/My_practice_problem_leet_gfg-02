@@ -12,13 +12,15 @@ class Solution {
 public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
         ListNode* ptr1 = list1;
-        ListNode* ptr2 = list1;
+        
         ListNode* ptr3 = list2;
         a--,b++;
+        int y = b-a;
         while(a--){
             ptr1 = ptr1->next;
         }
-        while(b--){
+        ListNode* ptr2 = ptr1;
+        while(y--){
             ptr2 = ptr2->next;
         }
         while(ptr3->next != NULL){
