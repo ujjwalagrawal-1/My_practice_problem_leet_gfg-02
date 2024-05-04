@@ -1,36 +1,32 @@
 class Solution {
-public:
-bool fn(unordered_set<string> &st,int i,int j,string &s,string temp,map<string,bool> &mp){
-
-    bool a = false,b = false;
-    if(mp.count(temp)){
-        return mp[temp];
+private:
+bool solver(int index,string s,unordered_set<string>&st,vector<int>&dp)
+{
+    if(index>=s.size())
+    {
+       return true;
     }
-    while(i<s.size()){
-        temp += s[i];
-        if(i == s.size()-1){
-            if(st.count(temp)){
-                return true;
-            }
-            else{
-                return false;
-            }
-        }
-        if(st.count(temp)){
-            a = fn(st,i+1,j,s,temp,mp);
-            b = fn(st,i+1,i+1,s,"",mp);
-            return mp[temp] = a | b;
-        }
-        i++;
+    if(dp[index]!=-1)
+    {
+        return dp[index];
     }
-    return 0;
+    for(int i=index;i<s.length();i++)
+    {
+        string g=s.substr(index,i-index+1);
+        if(st.find(g)!=st.end() && solver(i+1,s,st,dp))
+        {
+            return dp[index]=true;
+        }
+    }
+   return dp[index]=false;
 }
-    bool wordBreak(string s, vector<string>& wd) {
-        unordered_set<string>  st;
-        map<string,bool> mp;
-        for(auto itr: wd){
-            st.insert(itr);
-        }
-       return fn(st,0,0,s,"",mp);
+public:
+    bool wordBreak(string s, vector<string>& wordDict) {
+         unordered_set<string>st(wordDict.begin(),wordDict.end());
+         int n=s.length();
+         vector<int>dp(n,-1);
+         //bool ans=false;
+         return solver(0,s,st,dp);
+         //return ans;
     }
 };
