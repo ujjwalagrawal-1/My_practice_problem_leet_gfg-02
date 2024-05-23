@@ -1,25 +1,25 @@
 class Solution {
 public:
-unordered_map<int,int> mp;
-int f(vector<int> &nums,int &k,int ind){
-    if(ind >= nums.size()){
-        return 1;
+   int find_ans(vector<int>&nums,int k,int i,unordered_map<int,int> &st){
+     if(i<0)return 1;
+    int take=0;
+    int nottake=0;
+      st[nums[i]]++;
+    if(st[nums[i]+k]==0){
+        take=find_ans(nums,k,i-1,st);
     }
-    int tk = 0,nt = 0;
-    if(!mp.count(nums[ind] - k)){
-        mp[nums[ind]]++;
-        tk = f(nums,k,ind+1);
-        mp[nums[ind]]--;
-        if(mp[nums[ind]] == 0){
-            mp.erase(nums[ind]);
-        }
-    }
-    nt = f(nums,k,ind+1);
+        st[nums[i]]--;
+        // if(st[nums[i]]==0)st.erase(nums[i]);
+        nottake=find_ans(nums,k,i-1,st);
+    
+    return take+nottake;
 
-    return tk + nt;
-}
+   }
     int beautifulSubsets(vector<int>& nums, int k) {
+        // first using recursion
+        unordered_map<int,int>mp;
         sort(nums.begin(),nums.end());
-        return f(nums,k,0)-1;
+        int n=nums.size()-1;
+        return  find_ans(nums,k,n,mp)-1;
     }
 };
