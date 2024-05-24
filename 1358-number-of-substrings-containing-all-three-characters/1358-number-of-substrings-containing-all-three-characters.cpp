@@ -1,26 +1,27 @@
+#include <unordered_map>
+#include <string>
+
 class Solution {
 public:
-    int numberOfSubstrings(string s) {
-        unordered_map<char,int> mp;
-        int cnt = 0;
-        int i = 0;int j = 0;int flag = 1;
-        while(j<s.size()){
-            if(flag)
+    long long numberOfSubstrings(std::string s) {
+        unordered_map<char, int> mp;
+        int n = s.size();
+        int i = 0, j = 0;
+        long long count = 0;
+
+        while (j < n) {
             mp[s[j]]++;
-            if(mp.size() != 3)flag = 1;
-            if(mp.size() == 3){
-                flag = 0;
-                cnt += s.size()-j;
+            
+            while (mp.size() == 3) {
+                count += (n - j);
                 mp[s[i]]--;
-                if(mp[s[i]] == 0){
+                if (mp[s[i]] == 0) {
                     mp.erase(s[i]);
                 }
                 i++;
             }
-            if(flag)
             j++;
         }
-        return cnt;
-
+        return count;
     }
 };
