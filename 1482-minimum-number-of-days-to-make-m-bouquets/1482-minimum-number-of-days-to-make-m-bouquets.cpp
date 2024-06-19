@@ -18,7 +18,7 @@ bool f(vector<int> & bd,int m,int k,int days){
     int minDays(vector<int>& bd, int m, int k) {
         int s = INT_MAX;
         int e = INT_MIN;
-        if(bd.size() < k*m*1LL){
+        if(bd.size() < 1LL*k*m*1LL){
             return -1;
         }
         for(int i = 0;i<bd.size();i++){
