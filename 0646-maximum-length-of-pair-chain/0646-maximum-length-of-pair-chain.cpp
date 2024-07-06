@@ -9,7 +9,7 @@ public:
             return dp[i][dpIndex];
         }
         int tk = 0, nt = 0;
-        if (prev == -1001 || prev < pairs[i][0]) {
+        if (prev < pairs[i][0]) {
             tk = f(pairs, pairs[i][1], i + 1, dp) + 1;
         }
         nt = f(pairs, prev, i + 1, dp);
