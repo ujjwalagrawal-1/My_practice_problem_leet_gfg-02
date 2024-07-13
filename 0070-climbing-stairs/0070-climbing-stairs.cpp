@@ -1,21 +1,13 @@
 class Solution {
 public:
-int ans(int n){
-        // vector<int> dp(n+1,0);
-        // dp[0] = 1;
-        // dp[1] = 1;
-        int prev2 = 1;
-        int prev1 = 1;
-        for(int i = 2;i<=n;i++){
-            int ans = prev2 + prev1;
-            prev2 = prev1;
-            prev1 = ans;
-        }
-        return prev1;
+int stairs(int n,vector<int> &dp){
+    if(n==0)return 1;
+    if(n==1)return 1;
+    if(dp[n+2] != -1)return dp[n+2];
+        return dp[n+2] =  stairs(n-1,dp) + stairs(n-2,dp);
 }
     int climbStairs(int n) {
-    //    vector<int> dp(n+1,-1);
-    //    return ans(n,dp);
-        return ans(n);
+        vector<int> dp(n+3,-1);
+        return stairs(n,dp);
     }
 };
