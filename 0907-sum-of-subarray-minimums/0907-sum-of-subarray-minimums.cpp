@@ -1,49 +1,49 @@
-#define M 1000000007
 
+#define MOD 1000000007
 class Solution {
 public:
-    vector<int> prevlowest(vector<int>& arr) {
-        stack<int> s;
-        s.push(-1);
-        vector<int> ans(arr.size());
-        for (int i = 0; i < arr.size(); i++) {
-            int curr = arr[i];
-            while (s.top() != -1 && arr[s.top()] > curr) {
-                s.pop();
-            }
-            ans[i] = s.top();
-            s.push(i);
+vector<int> findnextsmallest(vector<int> &veci){
+    vector<int> ans(veci.size());
+    stack<int> st;
+    for(int i = veci.size()-1;i>=0;i--){
+        while(!st.empty() && veci[st.top()] >= veci[i]){
+            st.pop();
         }
-        return ans;
-    }
-
-    vector<int> Nextlowest(vector<int>& arr) {
-        stack<int> s;
-        s.push(arr.size());
-        vector<int> ans(arr.size());
-        for (int i = arr.size() - 1; i >= 0; i--) {
-            int curr = arr[i];
-            while (s.top() != arr.size() && arr[s.top()] >= curr) {
-                s.pop();
-            }
-            ans[i] = s.top();
-            s.push(i);
+        if(st.empty()){
+            ans[i] = veci.size();
         }
-        return ans;
+        else{
+            ans[i] = st.top();
+        }
+        st.push(i);
     }
-
+    return ans;
+}
+vector<int> findprevsmallest(vector<int> &veci){
+    vector<int> ans(veci.size());
+    stack<int> st;
+    for(int i = 0;i<veci.size();i++){
+        while(!st.empty() && veci[st.top()] > veci[i]){
+            st.pop();
+        }
+        if(st.empty()){
+            ans[i] = -1;
+        }
+        else{
+            ans[i] = st.top();
+        }
+        st.push(i);
+    }
+    return ans;
+}
     int sumSubarrayMins(vector<int>& arr) {
-        int n = arr.size();
-        vector<int> vecx = prevlowest(arr);
-        vector<int> vecy = Nextlowest(arr);
-        long long ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            long long a = i - vecx[i];
-            long long b = vecy[i] - i;
-
-            ans += (arr[i] * a * b) % M;
-            ans %= M;
+        vector<int> nextsmallest = findnextsmallest(arr);
+        vector<int> prevsmallest = findprevsmallest(arr);
+        int ans = 0;
+        for(int i = 0;i<arr.size();i++){
+            long long a = nextsmallest[i] - i;
+            long long b = i - prevsmallest[i];
+            ans = (ans + (a * b * arr[i]) % MOD) % MOD;          
         }
         return ans;
     }
