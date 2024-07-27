@@ -1,35 +1,37 @@
 class Solution {
 public:
-    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        unordered_map<int, vector<pair<int, int>>> adj;
-        for (auto& flight : flights) {
-            adj[flight[0]].push_back({flight[1], flight[2]});
+    int findCheapestPrice(int n, vector<vector<int>>& f, int src, int dst, int k) {
+        vector<pair<int,int>> adj[n];
+        for(int i = 0;i<f.size();i++){
+            adj[f[i][0]].push_back({f[i][1],f[i][2]});
         }
 
-        vector<int> dist(n, INT_MAX);
-        dist[src] = 0;
+        queue<pair<int,pair<int,int>>> pq;
 
-        queue<pair<int, int>> q;
-        q.push({src, 0});
-        int stops = 0;
+        vector<int> dis(n,1e9);
 
-        while (!q.empty() && stops <= k) {
-            int sz = q.size();
-            while (sz-- > 0) {
-                auto [node, distance] = q.front();
-                q.pop();
+        dis[src] = 0;
 
-                if (!adj.count(node)) continue;
+        pq.push({0,{0,src}});
 
-                for (auto& [neighbour, price] : adj[node]) {
-                    if (price + distance >= dist[neighbour]) continue;
-                    dist[neighbour] = price + distance;
-                    q.push({neighbour, dist[neighbour]});
+        while(!pq.empty()){
+            int stop = pq.front().first;
+            int cdis = pq.front().second.second;
+            int node = pq.front().second.first;
+            pq.pop();
+            for(auto itr : adj[node]){
+                int cost = itr.second;
+                int adjnode = itr.first;
+                if(stop > k){
+                    continue;
+                }
+                if(cost + cdis < dis[adjnode] && stop <= k){
+                    dis[adjnode] = cost + cdis;
+                    pq.push({stop + 1,{adjnode,dis[adjnode]}});
                 }
             }
-            stops++;
         }
-        return dist[dst] == INT_MAX ? -1 : dist[dst];
+        if(dis[dst] == 1e9)return -1;
+        else return dis[dst];
     }
 };
-
