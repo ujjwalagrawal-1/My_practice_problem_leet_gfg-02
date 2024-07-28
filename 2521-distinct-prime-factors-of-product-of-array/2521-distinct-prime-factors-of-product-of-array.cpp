@@ -11,7 +11,7 @@ public:
         for (int i = 2; i <= n; i++) {
             if (primes[i]) {
                 hp[i] = i;
-                for (int j = i * 2; j <= n; j += i) {
+                for (int j = i * i; j <= n; j += i) {
                     primes[j] = false;
                     if (hp[j] == 0) {
                         hp[j] = i;
