@@ -28,7 +28,6 @@ public:
                 i++;
             }
             if(j-i+1 == k){
-                // cout<<mini<<endl;
                 mini = min(mini,zero);
             }
             j++;
