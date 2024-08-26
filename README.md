@@ -32,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
+## String
+|  |
+| ------- |
+| [3312-number-of-changing-keys](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3312-number-of-changing-keys) |
 <!---LeetCode Topics End-->
