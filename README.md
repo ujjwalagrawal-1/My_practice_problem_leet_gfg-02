@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3312-number-of-changing-keys](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3312-number-of-changing-keys) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
