@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Hash Table
+|  |
+| ------- |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
