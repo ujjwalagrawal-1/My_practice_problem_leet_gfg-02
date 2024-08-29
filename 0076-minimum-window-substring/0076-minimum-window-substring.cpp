@@ -1,34 +1,47 @@
+typedef long long ll;
 class Solution {
 public:
-    string minWindow(string s, string t) {
-        int m = s.size(), n = t.size();
-
-        unordered_map<char, int> freq;
-        for(int i=0; i<n; i++){
-            freq[t[i]]++;
-        }
-        unordered_map<char, deque<int>> pos;
-        set<int> st;
-        pair<int, int> ans_ind = {0, INT_MAX}, initial;
-        initial = ans_ind;
-        for(int i=0; i<m; i++){
-            if(freq[s[i]] > 0){
-                pos[s[i]].push_back(i);
-                st.insert(i);
-                if(pos[s[i]].size() > freq[s[i]]){
-                    int first = pos[s[i]].front();
-                    pos[s[i]].pop_front();
-                    st.erase(first);
-                }
-                if(st.size() == n){
-                    if(i - *st.begin() < ans_ind.second - ans_ind.first){
-                        ans_ind = {*st.begin(), i};
-                    }
-                }
+bool c(map<char,int> &mp,map<char,int>& sec){
+    for(auto itr : mp){
+        if(sec.count(itr.first)){
+            if(itr.second <= sec[itr.first]){
+                continue;
+            }
+            else{
+                return false;
             }
         }
-        if(ans_ind == initial) return "";
-        string ans = s.substr(ans_ind.first, ans_ind.second - ans_ind.first + 1);
-        return ans;
+        else{
+            return false;
+        }
+    }
+    return true;
+}
+    string minWindow(string s, string t) { 
+        map<char,int> mp;
+        map<char,int> sec;
+        for(int i = 0;i < t.size();i++){
+            mp[t[i]]++;
+        }
+        ll i = 0;ll j = 0;
+        ll len = INT_MAX;
+        int ind = -1;
+        while(j < s.size()){
+            sec[s[j]]++;
+            while(c(mp,sec) && j - i + 1 >= t.size()){
+                if(j-i+1 < len){
+                    len = j-i+1;
+                    ind = i;
+                }
+                sec[s[i]]--;
+                i++;
+            }
+            j++;
+        }
+        if(ind == -1){
+            return "";
+        }
+        return s.substr(ind,len);
+
     }
 };
