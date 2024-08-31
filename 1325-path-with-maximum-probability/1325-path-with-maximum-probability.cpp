@@ -16,7 +16,6 @@ public:
             double wgt = pq.top().first;
             int node = pq.top().second;
             pq.pop();
-
             for(auto itr : adj[node]){
                 if(wgt*itr.second > arr[itr.first]){
                     arr[itr.first] = wgt*itr.second;
@@ -24,8 +23,6 @@ public:
                 }
             }
         }
-
         return arr[end_node];
-
     }
 };
