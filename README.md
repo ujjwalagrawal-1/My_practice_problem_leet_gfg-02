@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0076-minimum-window-substring) |
+| [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
