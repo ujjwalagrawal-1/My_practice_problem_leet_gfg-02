@@ -11,41 +11,22 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        set<int> st(nums.begin(),nums.end());
-        ListNode* temp = NULL;
-        ListNode* curr = head;
         if(head == NULL){
-            return head;
+            return NULL;
+        }
+        set<int> st(nums.begin(),nums.end());
+        while(st.count(head->val)){
+            head = head->next;
+        }
+        ListNode* temp = head;
+
+        while(temp){
+            while(temp->next && st.count(temp->next->val)){
+                temp->next = temp->next->next;
+            }
+            temp = temp->next;
         }
 
-        while(curr && st.count(curr->val)){
-            
-            temp = curr->next;
-            curr->next = NULL;
-            curr = temp;
-        }
-        head = curr;
-        if(head == NULL){
-            return head;
-        }
-        temp = NULL;
-        curr = head;
-        // cout<<curr->val<<endl;
-        while(curr != NULL){
-            if(st.count(curr->val)){
-                while(curr && st.count(curr->val)){
-                    curr = curr->next;
-                }
-                temp->next = curr;
-                temp = curr;
-                if(curr)
-                curr = curr->next;
-            }
-            else{
-                temp = curr;
-                curr = curr->next;
-            }
-        }
         return head;
     }
 };
