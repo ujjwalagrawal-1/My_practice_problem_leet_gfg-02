@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -120,18 +121,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Tree
 |  |
