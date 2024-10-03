@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
