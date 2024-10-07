@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 ## Brainteaser
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
