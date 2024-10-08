@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -131,10 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 ## Breadth-First Search
@@ -207,4 +210,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
