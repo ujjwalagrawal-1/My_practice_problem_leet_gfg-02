@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
+| [3195-separate-black-and-white-balls](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
+| [3195-separate-black-and-white-balls](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3312-number-of-changing-keys) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
