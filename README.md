@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1304-longest-happy-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
