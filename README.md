@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Monotonic Stack
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 ## Brainteaser
 |  |
