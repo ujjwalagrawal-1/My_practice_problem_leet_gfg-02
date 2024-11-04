@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3195-separate-black-and-white-balls) |
 | [3312-number-of-changing-keys](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3312-number-of-changing-keys) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
 | ------- |
