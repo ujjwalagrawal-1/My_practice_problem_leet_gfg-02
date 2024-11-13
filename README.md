@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
 ## Monotonic Stack
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sliding Window
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
