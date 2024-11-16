@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Graph
 |  |
 | ------- |
