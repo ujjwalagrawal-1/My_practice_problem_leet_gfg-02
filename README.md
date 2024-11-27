@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
 |  |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
