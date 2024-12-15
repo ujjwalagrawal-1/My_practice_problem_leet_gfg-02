@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
