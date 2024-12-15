@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0670-maximum-swap) |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -206,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -282,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -319,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
 |  |
@@ -346,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0044-wildcard-matching) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
