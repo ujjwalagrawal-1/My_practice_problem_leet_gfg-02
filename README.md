@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0780-max-chunks-to-make-sorted) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0494-target-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1086-divisor-game) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0494-target-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
