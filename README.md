@@ -409,4 +409,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0187-repeated-dna-sequences) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
