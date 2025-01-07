@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Divide and Conquer
 |  |
