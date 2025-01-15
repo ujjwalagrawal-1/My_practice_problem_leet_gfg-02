@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
