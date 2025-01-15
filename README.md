@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## String
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Queue
 |  |
 | ------- |
