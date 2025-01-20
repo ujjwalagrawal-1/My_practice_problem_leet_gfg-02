@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2685-first-completely-painted-row-or-column) |
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2685-first-completely-painted-row-or-column) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Simulation
 |  |
