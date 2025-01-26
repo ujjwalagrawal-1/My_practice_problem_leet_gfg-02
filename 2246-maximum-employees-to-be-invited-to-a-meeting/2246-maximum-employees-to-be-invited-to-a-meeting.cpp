@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     int res = 0;
     vector<int> visited;
     int dfs(int curr,vector<int> adj[]){
@@ -15,7 +14,6 @@ public:
     }
     
     int maximumInvitations(vector<int>& fav){
-        
         int n = fav.size();
         vector<int> adj[n];
         visited.resize(n,false);
