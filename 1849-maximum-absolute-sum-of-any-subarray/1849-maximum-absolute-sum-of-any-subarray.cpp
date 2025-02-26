@@ -10,6 +10,6 @@ public:
             if(cmax_sum <= 0)cmax_sum = 0;
             if(cmin_sum >= 0)cmin_sum = 0;
         }
-        return max(cmax_sum,abs(cmin_sum)) + 1;
+        return max(maxi,abs(mini));
     }
 };
