@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
 | [1558-course-schedule-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2793-count-the-number-of-complete-components](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2793-count-the-number-of-complete-components) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Dynamic Programming
 |  |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 ## Brainteaser
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1558-course-schedule-iv) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Queue
 |  |
