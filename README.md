@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3427-special-array-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3430-count-days-without-meetings) |
 ## Monotonic Stack
 |  |
 | ------- |
