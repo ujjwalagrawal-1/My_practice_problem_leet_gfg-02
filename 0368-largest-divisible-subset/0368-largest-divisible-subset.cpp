@@ -1,32 +1,30 @@
 class Solution {
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(), nums.end());
-        vector<int> dp(n, 1), hash(n);
-        int maxi = 1, start=0;
-        for(int i=0; i<n; i++){
-            hash[i]=i;
-            for(int prev = 0; prev<i; prev++){
-                if(nums[i]%nums[prev]==0 && dp[prev]+1 > dp[i]){
-                    dp[i]=dp[prev]+1;
-                    hash[i]=prev;
+        sort(nums.begin(),nums.end());
+        vector<int> dp(nums.size()+1,1);
+        vector<int> hash(nums.size()+1,-1);
+        // iota()
+        for(int i = 1;i < nums.size();i++){
+            for(int prev = 0;prev <= i-1;prev++){
+                if(nums[i]%nums[prev] == 0 && dp[i] < dp[prev]+1){
+                    dp[i] = dp[prev]+1;
+                    hash[i] = prev;
                 }
             }
-            if(dp[i]>maxi){
-                maxi = dp[i];
-                start = i;
+        }
+        int ans = -1,prevind =-1;
+        for(int i = 0;i<nums.size()+1;i++){
+            if(dp[i] > ans){
+                ans = dp[i];
+                prevind = i;
             }
-            
         }
-        vector<int> temp;
-        temp.push_back(nums[start]);
-        while(hash[start]!=start){
-            start = hash[start];
-            temp.push_back(nums[start]);
+        vector<int> result;
+        while(prevind != -1) {
+            result.push_back(nums[prevind]);
+            prevind = hash[prevind];
         }
-        reverse(temp.begin(), temp.end());
-        return temp;
+        return result;
     }
 };
-
