@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
+| [2048-build-array-from-permutation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2048-build-array-from-permutation) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2232-adding-spaces-to-a-string) |
