@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2793-count-the-number-of-complete-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## String
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2554-minimum-total-distance-traveled](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2554-minimum-total-distance-traveled) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Brainteaser
 |  |
 | ------- |
