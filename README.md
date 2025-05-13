@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2884-length-of-the-longest-valid-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2884-length-of-the-longest-valid-substring) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Hash Table
 |  |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
@@ -574,4 +578,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1908-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
