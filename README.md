@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1755-defuse-the-bomb) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2527-count-subarrays-with-fixed-bounds) |
