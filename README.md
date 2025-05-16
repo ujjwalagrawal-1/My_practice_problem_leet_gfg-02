@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2358-number-of-ways-to-split-array) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2308-divide-array-into-equal-pairs) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -489,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -570,11 +574,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0187-repeated-dna-sequences) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0187-repeated-dna-sequences) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
 |  |
