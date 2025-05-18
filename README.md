@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
+| [1036-rotting-oranges](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1558-course-schedule-iv) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1036-rotting-oranges](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1036-rotting-oranges) |
 | [1972-rotating-the-box](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2132-convert-1d-array-into-2d-array) |
