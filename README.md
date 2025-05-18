@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1325-path-with-maximum-probability) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2764-maximum-number-of-fish-in-a-grid) |
