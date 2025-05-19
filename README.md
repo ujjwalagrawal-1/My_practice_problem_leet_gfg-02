@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3321-type-of-triangle) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Monotonic Stack
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3321-type-of-triangle](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
