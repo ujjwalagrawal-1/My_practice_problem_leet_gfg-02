@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0780-max-chunks-to-make-sorted) |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0768-partition-labels) |
