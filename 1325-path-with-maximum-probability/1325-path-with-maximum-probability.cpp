@@ -1,28 +1,27 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
-        vector<pair<double,double>> adj[n];
-
-        for(int i = 0;i<edges.size();i++){
-            adj[edges[i][0]].push_back({edges[i][1],succProb[i]});
-            adj[edges[i][1]].push_back({edges[i][0],succProb[i]});
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& sp, int start_node, int end_node) {
+        vector<vector<pair<int,double>>> adj(n);
+        for(int i = 0; i < edges.size(); ++i){
+            int u = edges[i][0], v = edges[i][1];
+            double prob = sp[i];
+            adj[u].push_back({v, prob});
+            adj[v].push_back({u, prob});
         }
-        vector<double> arr(n+1,0);
-        arr[start_node] = 1.0;
+        vector<double> ans(n,0.00);
+        ans[start_node] = 1.00;
         priority_queue<pair<double,int>> pq;
-        pq.push({1.0,start_node});
-
+        pq.push({1.00,start_node});
         while(!pq.empty()){
-            double wgt = pq.top().first;
-            int node = pq.top().second;
+            auto node = pq.top();
             pq.pop();
-            for(auto itr : adj[node]){
-                if(wgt*itr.second > arr[itr.first]){
-                    arr[itr.first] = wgt*itr.second;
-                    pq.push({arr[itr.first],itr.first});
+            for(auto itr : adj[node.second]){
+                if(double(node.first*itr.second) > ans[itr.first]){
+                    ans[itr.first] = node.first*itr.second;
+                    pq.push({ans[itr.first],itr.first});
                 }
             }
         }
-        return arr[end_node];
+        return ans[end_node];
     }
 };
