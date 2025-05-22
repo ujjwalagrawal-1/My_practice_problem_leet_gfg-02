@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1036-rotting-oranges) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0300-longest-increasing-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -505,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1046-max-consecutive-ones-iii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2358-number-of-ways-to-split-array) |
