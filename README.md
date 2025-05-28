@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
