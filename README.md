@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2439-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2793-count-the-number-of-complete-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2439-longest-cycle-in-a-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2793-count-the-number-of-complete-components) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2439-longest-cycle-in-a-graph) |
 ## Queue
 |  |
 | ------- |
