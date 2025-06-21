@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2491-smallest-even-multiple](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2491-smallest-even-multiple) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
