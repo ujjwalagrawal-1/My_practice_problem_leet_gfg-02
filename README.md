@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0780-max-chunks-to-make-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
@@ -504,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
