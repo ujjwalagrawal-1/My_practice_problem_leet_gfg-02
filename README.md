@@ -686,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2087-confirmation-rate) |
 ## Geometry
 |  |
 | ------- |
