@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2916-check-if-it-is-possible-to-split-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2916-check-if-it-is-possible-to-split-array) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2850-construct-the-longest-new-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2850-construct-the-longest-new-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2491-smallest-even-multiple](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2491-smallest-even-multiple) |
 | [2716-prime-subtraction-operation](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-maximum-element-sum-of-a-complete-subset-of-indices](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3047-maximum-element-sum-of-a-complete-subset-of-indices) |
 ## Bit Manipulation
 |  |
 | ------- |
