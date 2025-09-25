@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1646-kth-missing-positive-number](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
