@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0128-longest-consecutive-sequence) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0221-maximal-square) |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0037-sudoku-solver) |
 | [0047-permutations-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0047-permutations-ii) |
 | [0494-target-sum](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0494-target-sum) |
 | [1038-number-of-squareful-arrays](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1038-number-of-squareful-arrays) |
