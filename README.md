@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0567-permutation-in-string) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/2411-spiral-matrix-iv) |
@@ -705,4 +707,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ujjwalagrawal-1/My_practice_problem_leet_gfg-02/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
